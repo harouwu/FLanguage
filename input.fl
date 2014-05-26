@@ -1,0 +1,7 @@
+1.2
+FLOAT64 a = 1.2 * 1.2
+FLOAT32 b = 1.0
+FLOAT64 c = a - b
+a
+b
+c
